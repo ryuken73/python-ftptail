@@ -1,2 +1,2 @@
 # python-ftptail
-tail text file via ftp protocol using python
+Tail text file via ftp protocol using python
